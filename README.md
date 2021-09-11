@@ -1,2 +1,2 @@
 # p3Art
-Focus on Python 3.8 + matplotlib + shapely
+Focus on Python 3.7 + matplotlib + shapely
